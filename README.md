@@ -37,19 +37,19 @@ The purpose of this repository is to document my learning journey, maintain stru
 - [x] Completed
 
 ### Module 06 - Interacting with Web Elements
-- [ ] In Progress
+- [x] Completed
 
 ### Module 07 - Handling Frames and iFrames
-- [ ] Pending
+- [x] Completed
 
 ### Module 08 - Hooks with Playwright
-- [ ] Pending
+- [x] Completed
 
 ### Module 09 - Assertions and Validations
-- [ ] Pending
+- [x] Completed
 
 ### Module 10 - Playwright CLI Options
-- [ ] Pending
+- [x] Completed
 
 ### Module 11 - Visual Testing
 - [ ] Pending
