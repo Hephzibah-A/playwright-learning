@@ -1,67 +1,47 @@
-# Playwright Automation Learning
+# Playwright Automation: Learning & Practice Repository
 
-## Overview
+## 📌 Overview
+This repository serves as a structured knowledge base and hands-on practice framework for UI Automation using Playwright. It documents my progression through an enterprise-grade automation curriculum, capturing core concepts, configuration strategies, and practical TypeScript implementations.
 
-This repository contains my learning notes, concepts, examples, and observations while learning Playwright Automation.
+## 📂 Repository Structure
+To separate theoretical concepts from practical application, the modules in this repository are structured into two distinct formats:
+* `*.md` files: Comprehensive notes detailing core concepts, best practices, and CLI commands.
+* `*.ts` files: Executable TypeScript test scripts demonstrating the module's concepts in real-world scenarios.
 
-The purpose of this repository is to document my learning journey, maintain structured notes, and build a reusable knowledge base for UI Automation concepts.
-
----
-
-## Learning Objectives
-
-- Understand Playwright architecture and workflow.
-- Learn browser automation concepts.
-- Gain knowledge of browser contexts and page handling.
-- Understand locator strategies and element identification.
-- Learn UI interactions, assertions, hooks, and test execution.
-- Explore framework design concepts and automation best practices.
+## 🎯 Learning Objectives
+* **Architecture & Setup:** Master Playwright's core architecture, auto-waiting mechanisms, and environment configuration.
+* **Resilient Locators:** Implement robust locator strategies prioritizing accessibility (ARIA roles) and custom test attributes.
+* **Advanced Interactions:** Execute reliable web element interactions, including shadow DOM handling, nested frames, and complex mouse/keyboard events.
+* **Test Lifecycle Management:** Design scalable test suites using hooks (`beforeEach`, `afterAll`), assertions, and customized execution flows.
+* **DevOps & Extensibility:** Extend the framework with custom fixtures, data-driven testing (DDT) paradigms, plugins, and CI/CD pipeline integration.
 
 ---
 
-## Course Progress
+## 🚀 Course Curriculum & Progress
 
-### Module 01 - Playwright Overview
-- [x] Completed
+### Phase 1: Fundamentals & Configuration
+- [x] **M01:** Playwright Overview
+- [x] **M02:** Configuring Playwright
+- [x] **M03:** Playwright Architecture
+- [x] **M04:** Browser Context and Child Window Handling
 
-### Module 02 - Configuring Playwright
-- [x] Completed
+### Phase 2: Element Identification & Interaction
+- [x] **M05:** Locator / Selector Strategies
+- [x] **M06:** Interacting with Web Elements
+- [x] **M07:** Handling Frames and iFrames
 
-### Module 03 - Playwright Architecture
-- [x] Completed
+### Phase 3: Test Design & Execution
+- [x] **M08:** Hooks with Playwright
+- [x] **M09:** Assertions and Validations
+- [x] **M10:** Playwright CLI Options
 
-### Module 04 - Browser Context and Child Window Handling
-- [x] Completed
+### Phase 4: Advanced Automation & DevOps
+- [x] **M11:** Visual Testing
+- [x] **M12:** Data-Driven Testing
+- [x] **M13:** Integrating Playwright with CI/CD
+- [x] **M14:** Using Playwright Plugins
+- [x] **M15:** Custom Extensions
+- [x] **M16:** Troubleshooting Common Issues
 
-### Module 05 - Locator / Selector
-- [x] Completed
-
-### Module 06 - Interacting with Web Elements
-- [x] Completed
-
-### Module 07 - Handling Frames and iFrames
-- [x] Completed
-
-### Module 08 - Hooks with Playwright
-- [x] Completed
-
-### Module 09 - Assertions and Validations
-- [x] Completed
-
-### Module 10 - Playwright CLI Options
-- [x] Completed
-
-### Module 11 - Visual Testing
-- [ ] Pending
-
-### Module 12 - Data-Driven Testing
-- [ ] Pending
-
-### Module 13 - Integrating Playwright with CI/CD
-- [ ] Pending
-
-### Module 14 - Using Playwright Plugins
-- [ ] Pending
-
-### Module 15 - Custom Extensions
-- [ ] Pending
+---
+*Maintained by Hephzibah A.*
